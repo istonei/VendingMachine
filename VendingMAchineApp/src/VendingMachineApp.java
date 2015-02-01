@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class VendingMachineTest 
+public class VendingMachineApp 
 {
 	public static void main(String[]args)
 	{
